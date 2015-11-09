@@ -1,0 +1,11 @@
+package com.suntossh.jpmc.domain;
+
+import java.io.Serializable;
+
+public class UserEntity implements Serializable {
+
+    private String firstName;
+    private String lastName;
+    private String userName;
+    private String password;
+}

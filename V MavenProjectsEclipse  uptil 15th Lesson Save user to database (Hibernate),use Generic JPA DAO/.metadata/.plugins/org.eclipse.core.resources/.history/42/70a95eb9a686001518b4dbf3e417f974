@@ -1,0 +1,5 @@
+package com.suntossh.jpmc.dao;
+
+public class UserJpaDao {
+
+}

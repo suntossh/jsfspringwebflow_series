@@ -1,0 +1,8 @@
+com\suntossh\jpmc\services\impl\UserServiceImpl.class
+com\suntossh\jpmc\services\UserService.class
+com\suntossh\jpmc\domain\UserEntity.class
+com\suntossh\jpmc\commons\dao\GenericJpaDao.class
+com\suntossh\jpmc\dao\UserDao.class
+com\suntossh\jpmc\commons\dao\GenericDao.class
+com\suntossh\jpmc\dao\UserJpaDao.class
+com\suntossh\jpmc\commons\domain\BaseEntity.class

@@ -1,0 +1,5 @@
+package com.example.j2eeapp.commons.dao;
+
+public class GenericJpaDao {
+
+}

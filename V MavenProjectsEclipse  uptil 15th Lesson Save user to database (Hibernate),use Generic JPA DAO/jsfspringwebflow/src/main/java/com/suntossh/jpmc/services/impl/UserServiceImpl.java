@@ -1,0 +1,35 @@
+package com.suntossh.jpmc.services.impl;
+
+import com.suntossh.jpmc.dao.UserDao;
+import com.suntossh.jpmc.domain.UserEntity;
+import com.suntossh.jpmc.services.UserService;
+
+/**
+ * Service providing service methods to work with user data and entity.
+ * 
+ * @author Suntossh
+ */
+public class UserServiceImpl implements UserService {
+
+        private UserDao userDao;
+        
+        /**
+         * Create user - persist to database
+         * 
+         * @param userEntity
+         * @return true if success
+         */
+        public boolean createUser(UserEntity userEntity) {
+                userDao.save(userEntity);
+                return true;
+        }
+
+        public UserDao getUserDao() {
+                return userDao;
+        }
+
+        public void setUserDao(UserDao userDao) {
+                this.userDao = userDao;
+        }
+
+}

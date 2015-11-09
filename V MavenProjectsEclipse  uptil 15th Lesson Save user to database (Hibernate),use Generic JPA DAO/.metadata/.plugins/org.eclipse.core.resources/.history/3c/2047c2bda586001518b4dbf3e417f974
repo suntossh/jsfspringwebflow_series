@@ -1,0 +1,5 @@
+package com.suntossh.jpmc.commons.domain;
+
+public class BaseEntity {
+
+}

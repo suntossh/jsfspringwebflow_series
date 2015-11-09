@@ -1,0 +1,13 @@
+package com.suntossh.jpmc.services.impl;
+
+import com.suntossh.jpmc.domain.UserEntity;
+import com.suntossh.jpmc.services.UserService;
+
+public class UserServicesImpl implements UserService {
+
+	public boolean createUser(UserEntity userEntity) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

@@ -1,0 +1,6 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/jsfspringwebflow/src/main/webapp/WEB-INF/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jsfspringwebflow/src/main/webapp/WEB-INF/datasource-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jsfspringwebflow/src/main/webapp/WEB-INF/flows/empcrud/empcrud-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jsfspringwebflow/src/main/webapp/WEB-INF/flows/main/main-flow.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/jsfspringwebflow/src/main/webapp/WEB-INF/webflow-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
